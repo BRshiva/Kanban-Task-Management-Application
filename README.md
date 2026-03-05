@@ -5,6 +5,12 @@ https://kanban-task-management-application-woad.vercel.app/
 
 ---
 
+## Application Preview
+
+<img src="screenshots/kanban-board.png" width="1000">
+
+---
+
 ## About The Project
 
 This is a single-page Kanban Task Management web application developed to provide a seamless and interactive interface for users to create, manage, and organize tasks across different workflow stages.
