@@ -7,9 +7,8 @@ https://kanban-task-management-application-woad.vercel.app/
 
 ## Application Preview
 
-<img src="screenshots/kanban-board.png" width="1000">
+<img src="Screenshot.png" width="1000">
 
----
 
 ## About The Project
 
