@@ -1,2 +1,33 @@
-# Kanban-Task-Management-Application
-Develop and deploy a single-page web application that allows users to manage tasks using a  Kanban-style board. The application should enable users to create tasks, move them between  workAow stages, and persist their data locally so the board state remains aAer refresh.
+# Kanban Task Management Application
+
+A single-page Kanban board built with React.
+
+## Features
+
+### Required
+- Kanban board with Todo / In Progress / Done
+- Create tasks
+- Edit tasks
+- Delete tasks
+- Drag and drop tasks
+- Local storage persistence
+- Responsive layout
+
+### Optional Enhancements
+- Task priority labels
+- Search tasks
+- Dark/light theme toggle
+
+## Tech Stack
+
+- React
+- HTML
+- CSS
+- JavaScript
+
+## Deployment
+
+Deploy using:
+
+- Vercel
+- Netlify
